@@ -26,7 +26,7 @@ Failed to connect to internet!\nCheck your internet connection :( """+Y+"""
 <----------------------------------------------->"""+G+"""
               Termux GUI Installer"""+Y+"""
 <----------------------------------------------->"""+R+"""
-              == """+CY+"""By Deadpool2000 """+R+"""==
+              == """+CY+"""By OnlineHacKing (Suman) """+R+"""==
     
 """)
     con()
@@ -57,7 +57,7 @@ Here,1 is a session number.
 
     e.g. localhost:1
     
-"""+R+"""6)"""+Y+""" Add name
+"""+R+"""6)"""+Y+""" Add name (OnlineHacKing)
 """+R+"""7)"""+Y+""" Click on Connect
 """+R+"""8)"""+Y+""" Enter VNC password which you used at Step 2
 
