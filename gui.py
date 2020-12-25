@@ -26,7 +26,7 @@ Failed to connect to internet!\nCheck your internet connection :( """+Y+"""
 <----------------------------------------------->"""+G+"""
               Termux GUI Installer"""+Y+"""
 <----------------------------------------------->"""+R+"""
-              == """+CY+"""By OnlineHacKing (Suman) """+R+"""==
+              == """+CY+"""By Online HacKing (Suman) """+R+"""==
     
 """)
     con()
